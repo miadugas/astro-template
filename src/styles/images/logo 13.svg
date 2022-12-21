@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1148.58 417.88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: FiftiesMovies, 'Fifties Movies';
+        font-size: 183px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.16em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 155.57)"><tspan x="0" y="0">I got Someone</tspan><tspan x="198.59" y="219.6">for th</tspan><tspan class="cls-2" x="749.02" y="219.6">a</tspan><tspan x="835.61" y="219.6">t</tspan></text>
+</svg>
